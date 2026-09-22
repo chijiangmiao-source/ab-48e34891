@@ -10,3 +10,8 @@ __pycache__/
 .nox/
 *.pyc
 *.pyo
+
+# npm local cache
+.npm-cache/
+dist/
+*.tsbuildinfo
